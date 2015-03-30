@@ -33,3 +33,9 @@ set number
 
 " Gchearswat: Set tabs to use characters instead
 set expandtab
+
+" Gchearswat: Set tab space to equal 5
+set tabstop=5 
+
+" GChearswat: Set the size of an 'indent'
+set shiftwidth=5
