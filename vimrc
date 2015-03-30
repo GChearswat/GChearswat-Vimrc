@@ -27,3 +27,9 @@ filetype plugin indent on
 
 " GChearswat: Set default color scheme
 colorscheme Slate
+
+" Gchearswat: Set line numbers to show on default
+set number
+
+" Gchearswat: Set tabs to use characters instead
+set expandtab
